@@ -21,8 +21,7 @@ http.onload = function handleLoad() {
               <span class="close" data-index="${index}">&times;</span>
               <p class="title"> ${item.title}</p>
               <img src="${item.image}" alt="${item.description}">
-              
-              <p>Location: ${item.location}</p>
+               <p>Location: ${item.location}</p>
               <p>Cuisine: ${item.cuisine}</p>
               <p class="text">${item.text}</p>
             </div>
