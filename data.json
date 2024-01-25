@@ -1,0 +1,97 @@
+[
+    {
+       "image": "./src/assets/images/rahmath.jpg",
+       "title": "Rahmath hotel",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "location": "calicut,4th gate",
+       "cuisine": "Arabic",
+       "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+       
+    },
+    {
+      "image": "./src/assets/images/paragon.jpg",
+      "title": "Paragon hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur.",
+      "location": "calicut,CH bridge",
+      "cuisine": "Indian",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+   },
+   {
+      "image": "./src/assets/images/sagar.jpg",
+      "title": "Sagar hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur.",
+      "location": "mavoor road",
+      "cuisine": "Indian",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+   },
+   {
+      "image": "./src/assets/images/Bombay.png",
+      "title": "Bombay hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur.",
+      "location": "south beach",
+      "cuisine": "Indian",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+   },
+   {
+      "image": "./src/assets/images/zains.jpg",
+      "title": "zains hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur.",
+      "location": "south beach",
+      "cuisine": "Arabic",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+   },
+   {
+      "image": "./src/assets/images/kbc.jpg",
+      "title": "KBC hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur.",
+      "location": "Mavoor road",
+      "cuisine": "Arabic",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+   },
+   {
+      "image": "./src/assets/images/cafeteria.jpg",
+      "title": "calicut cafeteria hotel",
+      "description": "Lorem ipsum dolor sit amet consectetur.",
+      "location": "south beach",
+      "cuisine": "Indian",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+   },
+   {
+      "image": "./src/assets/images/grillax.jpg",
+      "title": "GRILLAX",
+      "description": "Lorem ipsum dolor sit amet consectetur.",
+      "location": "Buissness Park",
+      "cuisine": "Turkish",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+   },
+   {
+      "image": "./src/assets/images/salkara.jpg",
+      "title": "Salkara ",
+      "description": "Lorem ipsum dolor sit amet consectetur.",
+      "location": "south beach",
+      "cuisine": "Arabic",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+   },
+   {
+      "image": "./src/assets/images/mra.jpg",
+      "title": "MRA ",
+      "description": "Lorem ipsum dolor sit amet consectetur.",
+      "location": "vadakara",
+      "cuisine": "Arabic",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      
+
+   }
+  
+    
+ ]
+ 

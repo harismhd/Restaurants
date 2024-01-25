@@ -1,0 +1,135 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+  min-height: 100vh;
+  color: #8d8484;
+}
+h2{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+}
+.products{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+  grid-gap: 50px;
+  margin: 50px auto;
+  max-width: 1240px;
+  padding: 20px;
+  
+}
+.product img{
+  width: 100%;
+  height: 50%;
+  display: block;
+}
+.product .title{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: rgb(10, 31, 36);
+}
+.product .description{
+  padding: 0 20px 20px 20px;
+  line-height: 22px;
+  text-align: center;
+  color: black;
+  font-family: sans-serif;
+
+}
+.product .location{
+  padding: 0 20px 20px 20px;
+  line-height: 22px;
+  text-align: center;
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.product {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 4%;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+.product:hover {
+  background-color: #e8f0ce; /* Optional: Highlight on hover */
+}
+.product-details {
+  display: none;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.7);
+}
+
+.modal-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f0e4e4;
+  padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.modal-content .text {
+  color:rgba(44, 43, 42, 0.87);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.modal-content .title{
+  font-size: 24px; 
+  font-weight: bold; 
+  color: #696f74; 
+  margin-bottom: 15px;
+}
+.modal-content img {
+  max-width: 100%; 
+  height: auto; 
+  border-radius: 8px; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  margin-bottom: 15px; 
+}
+
+
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.details-btn{
+
+  background-color: #9495a8; 
+  color: rgb(255, 255, 255); 
+  padding: 10px 15px; 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer;
+  margin-top: 5px;
+
+  
+}
