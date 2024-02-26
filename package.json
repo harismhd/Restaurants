@@ -43,6 +43,7 @@
     "vite-plugin-eslint": "^1.8.1"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.39.3",
     "eslint-plugin-vue": "^9.20.1",
     "regenerator-runtime": "^0.14.1",
     "the-new-css-reset": "^1.11.2"
